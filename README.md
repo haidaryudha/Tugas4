@@ -1,7 +1,4 @@
 # Tugas4
-Tentu! Berikut adalah penjelasan yang lebih panjang dan terperinci mengenai program yang telah kamu buat, dengan parafrasa untuk menjelaskan setiap bagian kode secara lebih mendalam:
-
----
 
 ### **Penjelasan Program Pengelolaan Nilai Mahasiswa**
 
@@ -164,8 +161,6 @@ Daftar Nilai Mahasiswa:
 Nama: YUDHA, Tugas: 80, UTS: 75, UAS: 95, Nilai Akhir: 84.25
 ==================================================
 ```
-
-Di sini, program menampilkan **Daftar Nilai Mahasiswa**, dan setiap mahasiswa yang telah dimasukkan akan tampil dengan informasi lengkap mengenai nilai tugas, UTS, UAS, dan nilai akhir mereka.
 
 ### **Flowchart**
 ![Screenshot 2024-11-15 192611](https://github.com/user-attachments/assets/f1f317cb-cdeb-4e91-a580-538ed0d45954)
